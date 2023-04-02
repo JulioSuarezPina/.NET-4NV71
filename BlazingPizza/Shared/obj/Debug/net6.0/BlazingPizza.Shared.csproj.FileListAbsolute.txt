@@ -1,0 +1,14 @@
+C:\Users\suapj\Documents\.NET\BlazingPizza\BlazingPizza\Shared\bin\Debug\net6.0\BlazingPizza.Shared.deps.json
+C:\Users\suapj\Documents\.NET\BlazingPizza\BlazingPizza\Shared\bin\Debug\net6.0\BlazingPizza.Shared.runtimeconfig.json
+C:\Users\suapj\Documents\.NET\BlazingPizza\BlazingPizza\Shared\bin\Debug\net6.0\BlazingPizza.Shared.dll
+C:\Users\suapj\Documents\.NET\BlazingPizza\BlazingPizza\Shared\bin\Debug\net6.0\BlazingPizza.Shared.pdb
+C:\Users\suapj\Documents\.NET\BlazingPizza\BlazingPizza\Shared\obj\Debug\net6.0\BlazingPizza.Shared.csproj.AssemblyReference.cache
+C:\Users\suapj\Documents\.NET\BlazingPizza\BlazingPizza\Shared\obj\Debug\net6.0\BlazingPizza.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suapj\Documents\.NET\BlazingPizza\BlazingPizza\Shared\obj\Debug\net6.0\BlazingPizza.Shared.AssemblyInfoInputs.cache
+C:\Users\suapj\Documents\.NET\BlazingPizza\BlazingPizza\Shared\obj\Debug\net6.0\BlazingPizza.Shared.AssemblyInfo.cs
+C:\Users\suapj\Documents\.NET\BlazingPizza\BlazingPizza\Shared\obj\Debug\net6.0\BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+C:\Users\suapj\Documents\.NET\BlazingPizza\BlazingPizza\Shared\obj\Debug\net6.0\BlazingPizza.Shared.dll
+C:\Users\suapj\Documents\.NET\BlazingPizza\BlazingPizza\Shared\obj\Debug\net6.0\refint\BlazingPizza.Shared.dll
+C:\Users\suapj\Documents\.NET\BlazingPizza\BlazingPizza\Shared\obj\Debug\net6.0\BlazingPizza.Shared.pdb
+C:\Users\suapj\Documents\.NET\BlazingPizza\BlazingPizza\Shared\obj\Debug\net6.0\BlazingPizza.Shared.genruntimeconfig.cache
+C:\Users\suapj\Documents\.NET\BlazingPizza\BlazingPizza\Shared\obj\Debug\net6.0\ref\BlazingPizza.Shared.dll
